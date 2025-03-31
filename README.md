@@ -1,4 +1,4 @@
-**Note we are still in the process of adding more data files to this repository. **
+**Note we are still in the process of adding more data files to this repository.** 
 # Analyzing Nigeria's 2023 Election: Methodology
 
 ## Data Collection and Identifying Anomalies
